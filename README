@@ -1,0 +1,8 @@
+Simple folder renamer from Euro (d.d.yyyy) to universal (yyyy-mm-dd) format.
+
+I created this piece of code because Sony PlayMemories Home insists on using 
+locale default date format when creating folders.
+
+To use:
+Simpy run it in a directory. It tried to find matching names and then renames them.
+Alternatively, you can give a list of directories as  a parameter, to traverse all of them.
